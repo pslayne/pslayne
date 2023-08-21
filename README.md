@@ -30,10 +30,10 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-000?style=for-the-badge&logo=SystemVerilog)
 
 ### Studying in this moment:
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=C3002F)
-![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=C3002F)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
   
 
