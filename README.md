@@ -6,7 +6,7 @@
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pslayne&show_icons=true&count_private=true&hide_border=true&title_color=EF9CDA&icon_color=EF9CDA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pslayne&show_icons=true&count_private=true&hide_border=true&title_color=EF9CDA&icon_color=EF9CDA&text_color=c9d1d9&bg_color=0d1117" alt="Layne Silveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pslayne&layout=compact&hide_border=true&title_color=EF9CDA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 </br>
@@ -15,7 +15,7 @@
 </p>
   
 
-### Skills:
+### Skills
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
@@ -30,13 +30,13 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
-### Studying in this moment:
+### Studying in this moment
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=C3002F)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-### How to find me:
+### How to find me
 <a href="https://www.linkedin.com/in/layne-silveira-54016a210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/ps_layne/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:laynepsilveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
