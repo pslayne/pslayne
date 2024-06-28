@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56203D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF9CDA&size=35&center=true&vCenter=true&width=1000&lines=Hi,+nice+to+meet+you!+My+name+is+Layne;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF9CDA&size=35&center=true&vCenter=true&width=1000&lines=Hi,+nice+to+meet+you!;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=1&color=F3F3F3&multiline=true&repeat=false&width=1000&height=125&lines=I'm+a+Computer+Science+student+at+UFERSA+and+am+doing+scientific+research+in+hardware+accelerators+for+K-means+;machine+learning+algorithm+in+FPGA.+;I'm+also+a+full-stack+developer%2C+but+back-end+totally+has+my+heart.;I'm+currently+acting+on+strengthening+the+foundation+of+my+programing+knowledge+with+Harvards+CS50x%2C+love+and;recommend+it%2C+by+the+way.;If+you+like+what+you+see+here%2C+feel+free+to+contact+me+%3C3)](https://git.io/typing-svg)
 ##
