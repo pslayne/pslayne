@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF9CDA&size=35&center=true&vCenter=true&width=1000&lines=Hi,+nice+to+meet+you!;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=1&color=F3F3F3&multiline=true&repeat=false&width=1000&height=125&lines=I'm+a+Computer+Science+student+at+UFERSA+and+am+doing+scientific+research+in+hardware+accelerators+for+K-means+;machine+learning+algorithm+in+FPGA.+;I'm+also+a+full-stack+developer%2C+but+back-end+totally+has+my+heart.;I'm+currently+acting+on+strengthening+the+foundation+of+my+programing+knowledge+with+Harvards+CS50x%2C+love+and;recommend+it%2C+by+the+way.;If+you+like+what+you+see+here%2C+feel+free+to+contact+me+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=1&color=F3F3F3&multiline=true&repeat=false&width=1000&height=200&lines=I'm+a+passionate+full-stack+developer+with+three+years+of+experience+in+remote+agile+development+environments%2C+;which+has+honed+my+ability+to+adapt+quickly%2C+learn+new+technologies%2C+and+thrive+in+dynamic+and+fast-paced+;settings.;I+graduated+Computer+Science+at+UFERSA+and+worked+on+research+of+hardware+solutions+for+machine+learning+and+;built+an+accelerator+for+K-means+ML+unsupervised+algorithm+using+SystemVerilog+for+FPGA.;In+addition+to+software+development%2C+I+have+a+foundation+in+data+analysis%2C+having+utilized+Python+and+PowerBI+;to+extract+meaningful+insights+from+complex+datasets.)](https://git.io/typing-svg)
 ##
 
 <div align="center">  
@@ -16,25 +16,27 @@
   
 
 ### Skills
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![SQL](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=nodedotjs)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-000?style=for-the-badge&logo=systemverilog)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![SQL](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql)
+![MONGO](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb)
 
 ### Studying in this moment
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=C3002F)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Docker](https://img.shields.io/badge/docker-00000F.svg?style=for-the-badge&logo=docker)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-00000F.svg?style=for-the-badge&logo=apache-cassandra)
+
 
 ### How to find me
 <a href="https://www.linkedin.com/in/layne-silveira-54016a210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
