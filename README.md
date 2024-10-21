@@ -40,7 +40,6 @@
 
 ### How to find me
 <a href="https://www.linkedin.com/in/layne-silveira-54016a210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/ps_layne/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:laynepsilveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56203D&height=120&section=footer"/>
